@@ -1,0 +1,2 @@
+Script allow to check size of specified folders based on the given path and size.
+Return only names of the folders and size.
